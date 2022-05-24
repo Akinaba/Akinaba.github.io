@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin
+Disallow: /img/admin
+Disallow: /support
+Disallow: /index. html
+Disallow: /*&
+Allow: /404.html
+Disallow: https://akinaba.github.io/Gigabyte_optimized_v3/

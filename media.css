@@ -1,0 +1,219 @@
+@media(max-width:1280px) {
+    body{
+        font-size: 18px;
+    }
+    .link__footer{
+        font-size: 11px;
+    }
+}
+@media(max-width:860px) {
+    .link__head{
+        font-size: 12px;
+    }
+    .form_review{
+        width: 45vw;
+    }
+    .link__footer{
+        font-size: 9px;
+    }
+    .error_banner{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media(max-width:860px) {
+    body{
+        font-size: 14px;
+    }
+    .nav__body {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 100%;
+        background-color: black;
+        z-index: 10;
+        padding-top: 110px;
+        transition: left .3s linear;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+
+    }
+    .nav__body.active {
+        left: 0;
+    }
+    .imgs_menu{
+        display: inline-block;
+    }
+    .nav__head{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .logo__header{
+        margin-top: 0;
+        position: relative;
+        z-index: 11;
+    }
+    .burger_head{
+        display: block;
+        position: relative;
+        z-index: 11;
+    }
+    .complection_item{
+        width: 40%;
+        margin: 15px auto;
+    }
+    .logo__header{
+        margin-top: 0;
+    }
+    .burger_head{
+        display: block;
+    }
+    .complection_item{
+        width: 40%;
+        margin: 15px auto;
+    }
+    .complection_item:hover{
+        -webkit-box-shadow: 0px 8px 31px 7px rgba(189, 189, 189, 0.29);
+        -moz-box-shadow: 0px 8px 31px 7px rgba(189, 189, 189, 0.29);
+        box-shadow: 0px 8px 31px 7px rgba(189, 189, 189, 0.29);
+        transform: scale(1.05);
+        cursor: pointer;
+    }
+    .complection_img{
+        position: absolute;
+        top: 0;
+        transform: translateX(-25%);
+        width: 175%;
+        height: 100%;
+        object-fit: contain;
+    }
+    .footer_block{
+        flex-direction: column;
+        align-items: center;
+        font-size: 12px;
+    }
+    .nav_footer{
+        margin-bottom: 15px;
+    }
+    .link__footer{
+        font-size: 11px;
+    }
+    .slider .item{
+        flex-direction: column;
+        align-items: center;
+    }
+    .item_text{
+        margin-top: 15px;
+    }
+    .form_review{
+        width: 55vw;
+    }
+}
+@media(max-width:560px){
+    body{
+        font-size: 12px;
+    }
+    .Motherboar_slide, .Videocard_clide, .Monitor_slide{
+        width: 80%;
+        margin: 25px auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .img_slider{
+        width: 70%;
+    }
+    .footer_block {
+        flex-direction: column;
+        align-items: flex-start;
+        font-size: 18px;
+    }
+    .nav_footer{
+        flex-direction: column;
+    }
+    .link__footer{
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .img__nav__social__link{
+        width: 48px;
+        height: 48px;
+    }
+    .partners_logos {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+      }
+      .img_partner {
+        width: 55%;
+        height: 55%;
+        margin: 15px auto;
+      }
+
+      /* news */
+    .news_item{
+        flex-direction: column;
+    }
+    .img_news_item{
+        width: 50vw;
+        margin: 0 auto;
+    }
+    .slider .item{
+        flex-direction: column;
+        align-items: center;
+    }
+    .item_text{
+        margin-top: 15px;
+    }
+    .form_review{
+        width: 65vw;
+    }
+    .icon_item{
+        width: 50%;
+    }
+    .contact_person{
+        justify-content: center;
+        text-align: center;
+    }
+    .person{
+        width: 40%;
+    }
+}
+@media(max-width:321px) {
+    .img_slider{
+        width: 90%;
+    }
+    .complection_item{
+        width: 70%;
+        margin: 15px auto;
+    }
+    .complection_img {
+        position: absolute;
+        top: 0;
+        transform: translateX(-10%);
+        width: 130%;
+        height: 100%;
+        object-fit: contain;
+    }
+    .slider .item{
+        flex-direction: column;
+        align-items: center;
+    }
+    .item_text{
+        margin-top: 15px;
+    }
+    .form_review{
+        width: 75vw;
+    }
+    .icon_item{
+
+        width: 70%;
+    }
+}

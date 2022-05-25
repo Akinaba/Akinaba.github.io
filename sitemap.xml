@@ -1,67 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3</loc>
+  <loc>https://akinaba.github.io/</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.0</priority>
  </url>
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/about.html</loc>
+  <loc>https://akinaba.github.io/about.html</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.5</priority>
  </url>
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/contact.html</loc>
+  <loc>https://akinaba.github.io/contact.html</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.5</priority>
  </url>
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/news.html</loc>
+  <loc>https://akinaba.github.io/news.html</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/new.html</loc>
+  <loc>https://akinaba.github.io/new.html</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/dollar.html</loc>
+  <loc>https://akinaba.github.io/dollar.html</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/auros17x.html</loc>
+  <loc>https://akinaba.github.io/auros17x.html</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/presentation.html</loc>
+  <loc>https://akinaba.github.io/presentation.html</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/404.html</loc>
+  <loc>https://akinaba.github.io/404.html</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/event.html</loc>
+  <loc>https://akinaba.github.io/event.html</loc>
   <lastmod>2022-04-20</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.8</priority>
  </url>
   <url>
-  <loc>https://akinaba.github.io/Gigabyte_optimized_v3/draw.html</loc>
+  <loc>https://akinaba.github.io/draw.html</loc>
+  <lastmod>2022-05-23</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+ </url>
+   <url>
+  <loc>https://akinaba.github.io/created.html</loc>
   <lastmod>2022-05-23</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.8</priority>

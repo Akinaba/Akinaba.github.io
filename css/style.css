@@ -625,3 +625,10 @@ footer{
 .link_dtn{
     text-decoration: none;
 }
+.created_img{
+    display: flex;
+    flex-direction: column;
+}
+.img_created{
+    width: 35vw;
+}
